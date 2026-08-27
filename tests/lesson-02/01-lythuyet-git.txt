@@ -1,0 +1,4 @@
+Khởi tạo Repo local git init
+Đưa Git từ Working Directory to Staging dùng git add <tên file>
+Thêm file vào staging git add .
+Commit các thay đổi đang ở Staging Area: dùng git commit -m "Tên phiên bản"
