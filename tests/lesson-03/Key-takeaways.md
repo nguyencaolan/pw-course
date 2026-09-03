@@ -124,6 +124,8 @@ sayHello();
 
 Parameter là biến được khai báo bên trong () của Function.
 
+console.log(`Text ${giá_trị} Text ${giá_trị}`);
+
 Ví dụ: 
 
 function sayHello(name) {
