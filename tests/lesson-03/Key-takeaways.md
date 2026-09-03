@@ -46,6 +46,7 @@ Branching = tạo và sử dụng các nhánh Git để phát triển code một
 3. camelCase ***dùng đặt tên biến, hàm***: nguyenCaoLan
 4. PascalCase ***dùng đặt tên class***: NguyenCaoLan
 5. UPPER_CASE: NGUYEN_CAO_LAN
+   
 ================================================
 #### Console log
 
