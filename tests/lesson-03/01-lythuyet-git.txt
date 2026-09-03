@@ -1,0 +1,4 @@
+git commit --amend: chỉnh sửa commit gần nhất
+git commit --amend -m "<message>" chỉnh sửa commit gần nhất với nội dung mới nằm trong tab "<message>"
+git restore --staged <file> : Khôi phục trạng thái của file ở stage với tên file cần bỏ khỏi staged
+git reset HEAD~1: lùi lại 1 commit (có thể hiểu là đưa HEAD về commit trước)
