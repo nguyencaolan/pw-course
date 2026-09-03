@@ -153,6 +153,7 @@ console.log(result);
 Ví dụ: 
 
 function calculateTotal(price, quantity) {
+    
   const total = price * quantity;
 
   return total;
@@ -167,10 +168,15 @@ console.log(result);
 function checkNumber(number) {
   if (number > 0) {
     return "Số dương";
+
   } else if (number < 0) {
+
     return "Số âm";
+
   } else {
+
     return "Số 0";
+
   }
 }
 
@@ -180,7 +186,9 @@ console.log(checkNumber(10));
 
 
 function printFruits(fruits) {
+
   for (let i = 0; i < fruits.length; i++) {
+
     console.log(fruits[i]);
   }
 }
