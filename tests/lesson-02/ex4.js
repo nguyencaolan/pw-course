@@ -1,7 +1,7 @@
-const hight = 170;
-const oddHight = hight -100;
-const goodWeight = (oddHight *9) /10;
-const maxWeight = oddHight;
-const minWeight = (oddHight * 8) /10; 
+const height = 170;
+const oddHeight = height -100;
+const goodWeight = (oddHeight *9) /10;
+const maxWeight = oddHeight;
+const minWeight = (oddHeight * 8) /10; 
 
 console.log (goodWeight, maxWeight, minWeight);
