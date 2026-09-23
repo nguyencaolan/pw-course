@@ -1,0 +1,10 @@
+/html/body/div/div[1]/form/input[1]
+/html/body/div/div[1/]form/button
+/html/body/div/div[2]/table/tbody/td[1]
+
+
+//input[@placeholder="Số điện thoại"]
+//table [@id="resultTable"]//tbody//tr[2]//td[2]
+//table [@id="resultTable"]//tbody//tr[3]//td[3]
+//button[@class="btn-register"]
+//table [@id ="resultTable"]
