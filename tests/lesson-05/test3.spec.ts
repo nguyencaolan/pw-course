@@ -8,7 +8,6 @@ test ('Add New Todo', async ({ page }) => {
 
     for (let i = 1; i <= 100; i++) {
 
-
         await page.locator("//input[@id ='new-task']").fill(`To Do ${i}`);
         await page.locator("//button [@id ='add-task']").click();
 

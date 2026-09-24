@@ -8,11 +8,9 @@ test ('Add product to cart', async ({page})=>{
 
     await page.locator("//button[@data-product-id = '1']").click();
     await page.locator("//button[@data-product-id = '1']").click();
-
     await page.locator("//button[@data-product-id = '2']").click();
     await page.locator("//button[@data-product-id = '2']").click();
     await page.locator("//button[@data-product-id = '2']").click();
-
     await page.locator("//button[@data-product-id = '3']").click();
 
 
