@@ -21,8 +21,8 @@ class Student {
     }
 
 };
-const student11 = new Student ("Rubby", "L001", "HCM", 8, 9, "hoctest.com");
-const student22 = new Student ("Mary", "L001", "HCM", 8, 9, "hoctest.com");
-student11.doiTruong("PlayWright");
-console.log (student11);
-console.log (student22);
+const student111 = new Student ("Rubby", "L001", "HCM", 8, 9, "hoctest.com");
+const student222 = new Student ("Mary", "L001", "HCM", 8, 9, "hoctest.com");
+student111.doiTruong("PlayWright");
+console.log (student111);
+console.log (student222);
