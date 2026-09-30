@@ -1,3 +1,4 @@
+//code TS
 class Student {
     name: string;
     classCode: string;
